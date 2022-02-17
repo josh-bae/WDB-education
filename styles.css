@@ -70,19 +70,19 @@
   .bluecross {
       display: flex;
       flex-direction: row;
-      background-color: rgb(5, 5, 71);
+      background-color: rgb(0, 20, 137);
       height:  11.11%;
       width: 12%;
   }
   
 
   .bluestripe {
-      background-color: rgb(5, 5, 71);
+      background-color: rgb(0, 20, 137);
       height: 11.11%;
       width: 80%;
   }
   .bluestripesh {
-      background-color: rgb(5, 5, 71);
+      background-color: rgb(0, 20, 137);
       height: 11.11%;
       width: 68%;
   }
@@ -97,7 +97,7 @@
     width: 100%;
 }
 .bluestripef {
-    background-color: rgb(5, 5, 71);
+    background-color: rgb(0, 20, 137);
     height: 11.11%;
     width: 100%;
 }
