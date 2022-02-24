@@ -1,0 +1,182 @@
+/* .splash-page {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+} */
+* {
+    background-color: rgb(76, 78, 78);
+}
+.nav {
+    font-family: Work Sans;
+    font-style: normal;
+    display: flex;
+    flex-wrap: nowrap;
+    background-image: url(background.jfif);
+    background-repeat: repeat-x;
+    
+}
+.wrapper {
+    display: flex;
+    background-image: url(background.jfif);
+    margin-left: auto;
+    
+}
+.nav-button {
+    
+    flex-wrap: nowrap;
+    font-size: 20px;
+    background-color:rgb(76, 78, 78);
+    color: white;
+    height: 30px;
+    width: 130px;
+    text-align: center;
+    
+    
+    
+}
+
+.Name {  
+    color: white;
+    font-weight: 500;
+    width: auto;
+    font-size: 90px;
+    font-size: 50px;
+    padding-left: 5vh;
+    padding-top: 10vh;
+    height: 30vh;
+    background-image: url(background.jfif);
+}
+
+.profilepic {
+    padding-top: 27px;
+    
+    height: 60%;
+   
+}
+/* button {
+    font-size: 20px;
+    color: white;
+    font-family: Work Sans;
+    font-style: normal;
+    background: none;
+    border: none;
+    
+} */
+p {
+    width: 600px;
+    flex-wrap: wrap;
+    font-size: 30px;
+    background-image: url(background.jfif);
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(76, 78, 78);
+    height: 58vh;
+    font-family: Work Sans;
+    font-style: normal;
+    justify-content: space-around;
+  
+   
+    
+}
+.Container{
+    display: flex;
+    height: 400px;
+}
+
+a {
+    flex-wrap: nowrap;
+    
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    flex-wrap: wrap;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    padding-left: 5vh;
+    width: 500px;
+   
+  
+}
+
+ul{
+    background-image: url(background.jfif);
+}
+li{
+    background-image: url(background.jfif);
+}
+.regulartext {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.ProjectName {
+    
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-image: url(background.jfif);
+    color: white;
+    height: 30px;
+    font-weight: 500;
+    font-size: 30px;
+    width: 200px;
+    gap: 50px;
+
+}
+.Filler {
+    text-align: left;
+    display: block;
+    color: white;
+    background-image: url(background.jfif);
+    height: 270px;
+}
+li {
+    font-size: 20px;
+    padding: 7px;
+}
+
+.ProjectName2 {
+    
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-image: url(background.jfif);
+    color: white;
+    height: 30px;
+    font-weight: 500;
+    font-size: 30px;
+    width: 400px;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+.Filler2 {
+    
+    text-align: left;
+    display: block;
+    color: white;
+    background-image: url(background.jfif);
+    height: 260px;
+   
+    flex-shrink: 0;
+}
+.ProjectDesc {
+    
+    display: block;
+    text-align: left;
+    padding: 10px;
+    background-image: url(background.jfif);
+    color: white;
+    height: 260px;
+    font-weight: 500;
+    font-size: 30px;
+    width: 400px;
+    
+    flex-shrink: 0;
+}
